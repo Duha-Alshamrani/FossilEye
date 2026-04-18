@@ -55,4 +55,4 @@ Fossil image dataset from Roboflow — 992 labeled images across 7 fossil catego
 
 ## About
 
-A personal project built through experimentation and trial and error. First time working with object detection — seeing the bounding boxes actually work was pretty cool.
+A personal project built through experimentation and trial and error. First time working with object detection.
