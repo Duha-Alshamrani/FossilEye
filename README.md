@@ -1,6 +1,6 @@
-# 🦴 FossilEye
+# FossilEye
 
-I built this to see if a computer vision model could learn to tell different fossils apart just from images. Turns out it can — pretty well actually.
+I built this to see if a computer vision model could learn to tell different fossils apart just from images.
 
 The model detects and draws bounding boxes around fossils in images, and classifies them into one of 7 types.
 
